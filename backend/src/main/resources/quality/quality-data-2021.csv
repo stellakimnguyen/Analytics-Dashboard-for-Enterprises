@@ -1,0 +1,4 @@
+﻿Month,Manufacturing Cycle Time in days,Maintenance Costs $,Unit Costs $,Right First Time %,Defect Density %,Capacity Utilization %,Overall Equipment Effectiveness %,Production Volume
+January,20,5400,200,86,14,45,69,333
+February,17,4600,167,92,8,50,71,420
+March,16,3800,160,95,5,56,77,690

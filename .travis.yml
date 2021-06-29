@@ -1,0 +1,10 @@
+language: java
+jdk:
+  - openjdk15
+os:
+  - linux
+branches:
+  only:
+    - master
+    - /^backend.*$/
+before_install: cd ./backend
